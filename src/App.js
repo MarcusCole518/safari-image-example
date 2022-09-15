@@ -1,11 +1,11 @@
-import Blue_Asterisk from './Blue_Asterisk.webp';
+import gatsby_icon from './gatsby-icon.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={Blue_Asterisk} className="App-logo" alt="logo" />
+        <img src={gatsby_icon} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
